@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Nexus",
+        "description": "Prez de nexus",
+        "image": "images/violet.png",
+        "link": "https://github.com/MathisPipart/Nexus"
+    },
+    {
+        "title": "Reconnaisence de chriffres manuscrits en deep learning", 
+        "description": " Projet de reconnaissance de chiffres manuscrits en deep learning avec Tensorflow et Keras.",
+        "image": "images/handwritten_digits_recognition.png",
+        "link": "https://github.com/Pierro13/handwritten_digits_recognition"
+    },
+    {
+        "title": "Nexus",
+        "description": "Prez de nexus",
+        "image": "images/violet.png",
+        "link": "https://github.com/MathisPipart/Nexus"
+    },
+    {
+        "title": "Reconnaisence de chriffres manuscrits en deep learning", 
+        "description": " Projet de reconnaissance de chiffres manuscrits en deep learning avec Tensorflow et Keras.",
+        "image": "images/handwritten_digits_recognition.png",
+        "link": "https://github.com/Pierro13/handwritten_digits_recognition"
+    },
+    {
+        "title": "Nexus",
+        "description": "Prez de nexus",
+        "image": "images/violet.png",
+        "link": "https://github.com/MathisPipart/Nexus"
+    },
+    {
+        "title": "Reconnaisence de chriffres manuscrits en deep learning", 
+        "description": " Projet de reconnaissance de chiffres manuscrits en deep learning avec Tensorflow et Keras.",
+        "image": "images/handwritten_digits_recognition.png",
+        "link": "https://github.com/Pierro13/handwritten_digits_recognition"
+    }
+]
