@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #0A001B;
+    background-color: #090118;
     color: #e4e4e4;
 }
 
@@ -37,7 +37,7 @@ header {
 .project-info {
     padding: 1rem;
     background: rgba(255, 255, 255, 0.9);
-    color: #0A001B;
+    color: #090118;
 }
 
 .project-card img {
@@ -117,7 +117,7 @@ footer {
 }
 
 #Welcome {
-    background-color: #0A001B;
+    background-color: #090118;
 }
 
 #projects-container {
@@ -126,7 +126,7 @@ footer {
 }
 
 .separator {
-    background: #0A001B;
+    background: #090118;
     position: relative;
     z-index: 1;
 }
@@ -138,7 +138,7 @@ footer {
 }
 
 .separator2 {
-    background: #0A001B;
+    background: #090118;
     position: relative;
     z-index: 1;
 }
