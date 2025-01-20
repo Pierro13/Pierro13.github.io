@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Expérience 1",
+        "description": "Description de l'expérience 1.",
+        "image": "images/experiences.png"
+    },
+    {
+        "title": "Expérience 2",
+        "description": "Description de l'expérience 2.",
+        "image": "images/experiences.png"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "title": "ESIEE Paris",
+        "description": "Description de la formation 1.",
+        "image": "images/formations.png"
+    },
+    {
+        "title": "Lycée Vauvenargues",
+        "description": "Description de la formation 2.",
+        "image": "images/formations.png"
+    }
+]
