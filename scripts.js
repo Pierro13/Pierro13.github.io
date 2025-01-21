@@ -15,6 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         <h3>${project.title}</h3>
                         <p>${project.description}</p>
                         <a href="${project.link}" target="_blank">View Project</a>
+                        ${project.demo ? `<a href="${project.demo}" target="_blank">View Demo</a>` : ''}
                     </div>
                 `;
                 container.appendChild(card);

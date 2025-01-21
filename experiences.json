@@ -1,12 +1,22 @@
 [
     {
-        "title": "Expérience 1",
-        "description": "Description de l'expérience 1.",
-        "image": "images/experiences.png"
+        "title": "Dassault systèmes – Ingénieur logiciel",
+        "description": "Septembre 2022 – Aout 2025 – (Alternance) Développeur logiciel dans le domaine de la fabrication additive. Dans le brand DELMIA pour le produit Powder Bed Fabrication",
+        "image": "images/ds.png"
     },
     {
-        "title": "Expérience 2",
-        "description": "Description de l'expérience 2.",
-        "image": "images/experiences.png"
+        "title": "Curso - Développement Web",
+        "description": "Décembre 2021 - Septembre 2024 Développement d'un site internet pour la start-up Curso proposant des voyages à vélo",
+        "image": "images/curso.jpg"
+    },
+    {
+        "title": "Groupe ORTEC – Direction des systèmes d’information",
+        "description": "Juin 2021 - (Stage de production) Réalisation de tutoriels vidéo pour l’applicatif interne de traçabilité des déchets à destination des employés de terrain",
+        "image": "images/ortec.png"
+    },
+    {
+        "title": "Groupe AtechSys ",
+        "description": "Février 2017 - (Stage d’observation) Étude de la réglementation des vols de drone, réalisation de vols expérimentaux, conception et impressions 3D de composants de drones",
+        "image": "images/AtechSys.jpg"
     }
 ]

@@ -3,36 +3,58 @@
         "title": "Nexus",
         "description": "Prez de nexus",
         "image": "images/violet.png",
-        "link": "https://github.com/MathisPipart/Nexus"
+        "link": "https://github.com/MathisPipart/Nexus",
+        "demo": "https://drive.google.com/file/d/1-pkUK58vzP7tU7Wb-N8bg-0UlkLh1WqV/view?usp=sharing"
     },
     {
-        "title": "Reconnaisence de chriffres manuscrits en deep learning", 
+        "title": "Geometric Modeling", 
+        "description": "Projet c++ de modélisation géométrique de forme 3D affin de comprendre les bases de la modélisation 3D",
+        "image": "images/Geometric_Modeling2.png",
+        "link": "https://github.com/Pierro13/Geometric_Modeling"
+    },
+    {
+        "title": "DeepLearning", 
         "description": " Projet de reconnaissance de chiffres manuscrits en deep learning avec Tensorflow et Keras.",
         "image": "images/handwritten_digits_recognition.png",
-        "link": "https://github.com/Pierro13/handwritten_digits_recognition"
+        "link": "https://github.com/Pierro13/handwritten_digits_recognition",
+        "demo": "https://www.youtube.com/watch?v=AsK1tzC0BIg"
     },
     {
-        "title": "Nexus",
-        "description": "Prez de nexus",
-        "image": "images/violet.png",
-        "link": "https://github.com/MathisPipart/Nexus"
+        "title": "CodeMaster", 
+        "description": "Permet de faire des quiz de programmation pour s'améliorer",
+        "image": "images/CodeMaster.png",
+        "link": "https://github.com/Pierro13/quiz-app"
     },
     {
-        "title": "Reconnaisence de chriffres manuscrits en deep learning", 
-        "description": " Projet de reconnaissance de chiffres manuscrits en deep learning avec Tensorflow et Keras.",
-        "image": "images/handwritten_digits_recognition.png",
-        "link": "https://github.com/Pierro13/handwritten_digits_recognition"
+        "title": "Tiny Flight Simulator", 
+        "description": "Simuilateur de vol réalisé sur Unity",
+        "image": "images/Tiny Flight Simulator.png",
+        "link": "https://github.com/Pierro13/Projet_Unity",
+        "demo": "https://www.youtube.com/watch?v=J4iRpcWhH4w&ab_channel=Tr%C3%A9sorMbiapa"
     },
     {
-        "title": "Nexus",
-        "description": "Prez de nexus",
-        "image": "images/violet.png",
-        "link": "https://github.com/MathisPipart/Nexus"
+        "title": "Vertigo Experience - Extended-Reality", 
+        "description": "Projet en réalité virtuelle affin de confronter sa peur du vide",
+        "image": "images/Vertigo Experience.png",
+        "link": "https://github.com/Pierro13/Extended-Reality",
+        "demo": "https://www.youtube.com/watch?v=kAkuCUpXMDw&ab_channel=PierreAlla"
     },
     {
-        "title": "Reconnaisence de chriffres manuscrits en deep learning", 
-        "description": " Projet de reconnaissance de chiffres manuscrits en deep learning avec Tensorflow et Keras.",
-        "image": "images/handwritten_digits_recognition.png",
-        "link": "https://github.com/Pierro13/handwritten_digits_recognition"
+        "title": "IA de reconnaissance faciale", 
+        "description": "Développement d'une IA de reconnaissance faciale en python",
+        "image": "images/IA.png",
+        "link": "https://github.com/Pierro13/Machine_Learning_ia_facial_recognition"
+    },
+    {
+        "title": "Domineering", 
+        "description": "Développement d'une IA pouvant jouer au jeu du Domineering",
+        "image": "images/Domineering.png",
+        "link": "https://github.com/Pierro13/Domineering"
+    },
+    {
+        "title": "Portfolio", 
+        "description": "Ce portfolio permetant de mettre en avant mes projets, mes expériences et mes compétences", 
+        "image": "images/setup.png",
+        "link": "https://pierro13.github.io/"
     }
 ]

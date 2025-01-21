@@ -1,12 +1,22 @@
 [
     {
-        "title": "ESIEE Paris",
-        "description": "Description de la formation 1.",
-        "image": "images/formations.png"
+        "title": "Master – Programmation / Management",
+        "description": "Heriot Watt University – Edinburgh - Ecosse (Sept-Déc 2024 )",
+        "image": "images/heriot.png"
     },
     {
-        "title": "Lycée Vauvenargues",
-        "description": "Description de la formation 2.",
-        "image": "images/formations.png"
+        "title": "Cycle ingénieur en apprentissage filière Informatique et Applications ",
+        "description": "ESIEE Paris – Université Gustave Eiffel (2022 - 2025)",
+        "image": "images/esiee.png"
+    },
+    {
+        "title": "Cycle préparatoire intégré",
+        "description": "ESIEE Paris (2020 - 2022) Enseignements : Introduction à l’IA – Python – IHM – Bases de données - Algorithmique et structures de données ",
+        "image": "images/esiee.png"
+    },
+    {
+        "title": "Baccalauréat S",
+        "description": "Lycée Vauvenargues (Aix-en-Provence) – SI option ISN mention Assez Bien (2020)",
+        "image": "images/bac.png"
     }
 ]
