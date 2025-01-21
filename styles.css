@@ -27,7 +27,7 @@ header {
 .project-card {
     display: flex;
     flex-direction: column;
-    justify-content: start;
+    justify-content: space-between; /* Ensure content is spaced out */
     background-color: #fff;
     border: 1px solid #ddd;
     border-radius: 5px;
@@ -46,11 +46,13 @@ header {
     padding: 1rem;
     background: rgba(255, 255, 255, 0.9);
     color: #0A001B;
+    margin-top: auto; /* Pushes the project-info to the bottom */
 }
 
 .project-card img {
     width: 100%;
-    height: auto;
+    height: 200px; /* Set a fixed height for all images */
+    object-fit: cover; /* Ensure the image covers the area without distortion */
     display: block;
 }
 
@@ -172,6 +174,11 @@ footer {
 .socials a {
     text-decoration: none;
     color: inherit;
+}
+
+.socials img{
+    height: 80px;
+    width: 80px;
 }
 
 #Formation-experiences{
