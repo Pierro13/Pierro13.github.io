@@ -1,7 +1,7 @@
 [
     {
         "title": "Nexus",
-        "description": "Prez de nexus",
+        "description": "Réseau social étudiant, pensé pour aider les étudiants à s'intégrer à la vie associative de l'école. Fontionnalités : Feed / Clus & Assos / Messagerie / Calendrier",
         "image": "images/violet.png",
         "link": "https://github.com/MathisPipart/Nexus",
         "demo": "https://drive.google.com/file/d/1-pkUK58vzP7tU7Wb-N8bg-0UlkLh1WqV/view?usp=sharing"
