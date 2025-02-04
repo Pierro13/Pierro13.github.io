@@ -118,7 +118,7 @@ footer {
 }
 
 #Formation-experiences .content h1 {
-    white-space: nowrap; /* Empêche le texte de se diviser en plusieurs lignes */
+    white-space: nowrap;
 }
 
 .content p {
@@ -323,4 +323,67 @@ footer {
 .quick-links img {
     width: 100%;
     height: 100%;
+}
+
+.F_E_tel {
+    display: none;
+}
+
+/* handle responsive */
+
+@media screen and (max-width: 768px) {
+    .quick-links{
+        display: none;
+    }
+
+    #projects-container {
+        padding-top: 0;
+    }
+
+    .container {
+        flex-direction: column;
+        align-items: center;
+        padding: 0 10%;
+    }
+
+    .content {
+        max-width: 100%;
+        text-align: justify;
+    }
+
+    .content h1 {
+        font-size: 3rem;
+    }
+
+    .image-container {
+        max-width: 100%;
+        margin-top: 20px;
+    }
+
+    #Formation-experiences .container {
+        display: none;
+    }
+
+    #F_E {
+        display: none;
+    }
+
+    .F_E_tel {
+        display: block;
+        font-size: 3rem;
+        margin: 0;
+        margin-bottom: 10px;
+    }
+
+    .formations .card{
+        width: 95%;
+    }
+
+    .experiences .card{
+        width: 95%;
+    }
+
+    #Contact-CV .container{
+        min-height: 30vh;
+    }
 }
